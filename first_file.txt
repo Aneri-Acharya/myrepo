@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is my first file
 line entered to make commit changes from the master branch
+=======
+this is my first file 
+edited in branch new_branch
+
+>>>>>>> new_branch
