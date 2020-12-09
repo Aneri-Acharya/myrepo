@@ -1,2 +1,3 @@
 Hi,
 first file created for the master branch
+first line added in the new_test_branch
