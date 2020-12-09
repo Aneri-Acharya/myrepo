@@ -1,0 +1,9 @@
+Hi,
+first file created for the master branch
+<<<<<<< HEAD
+line added in master branch after modifying new_test_branch
+ 
+||||||| cc80260
+=======
+first line added in the new_test_branch
+>>>>>>> new_test_branch
